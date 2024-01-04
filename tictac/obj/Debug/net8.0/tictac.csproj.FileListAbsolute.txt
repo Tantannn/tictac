@@ -1,0 +1,14 @@
+F:\C3\tictac\tictac\bin\Debug\net8.0\tictac.exe
+F:\C3\tictac\tictac\bin\Debug\net8.0\tictac.deps.json
+F:\C3\tictac\tictac\bin\Debug\net8.0\tictac.runtimeconfig.json
+F:\C3\tictac\tictac\bin\Debug\net8.0\tictac.dll
+F:\C3\tictac\tictac\bin\Debug\net8.0\tictac.pdb
+F:\C3\tictac\tictac\obj\Debug\net8.0\tictac.GeneratedMSBuildEditorConfig.editorconfig
+F:\C3\tictac\tictac\obj\Debug\net8.0\tictac.AssemblyInfoInputs.cache
+F:\C3\tictac\tictac\obj\Debug\net8.0\tictac.AssemblyInfo.cs
+F:\C3\tictac\tictac\obj\Debug\net8.0\tictac.csproj.CoreCompileInputs.cache
+F:\C3\tictac\tictac\obj\Debug\net8.0\tictac.dll
+F:\C3\tictac\tictac\obj\Debug\net8.0\refint\tictac.dll
+F:\C3\tictac\tictac\obj\Debug\net8.0\tictac.pdb
+F:\C3\tictac\tictac\obj\Debug\net8.0\tictac.genruntimeconfig.cache
+F:\C3\tictac\tictac\obj\Debug\net8.0\ref\tictac.dll
